@@ -30,6 +30,7 @@ DSABlueprints/
 │── Linked List/          # Optimized Singly Linked List
 │── Stack/                # Linked List Based Stack Implementation
 │── Trees/                # Tries Implementation
+│── Bit Manipulation/     # Bit Manipulation Implementation
 │── README.md
 ```
 
