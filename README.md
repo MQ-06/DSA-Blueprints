@@ -31,6 +31,7 @@ DSABlueprints/
 │── Stack/                # Linked List Based Stack Implementation
 │── Trees/                # Tries Implementation
 │── Bit Manipulation/     # Bit Manipulation Implementation
+│── Maps/                 # Maps Implementation
 │── README.md
 ```
 
